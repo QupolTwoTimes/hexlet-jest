@@ -1,3 +1,4 @@
+import { expect, test } from '@jest/globals';
 import reverse from '../src/index.js';
 
 test('reverse', () => {
